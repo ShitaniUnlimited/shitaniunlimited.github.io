@@ -1,0 +1,113 @@
+html {
+
+    font-family: "Montserrat", sans-serif;
+    }
+
+a:visited { 
+    text-decoration: none; 
+    color: #0D4FA6;
+    }
+
+
+a {
+    text-decoration: none;
+    
+}    
+
+body {background-color: aliceblue;}
+
+/*
+body {
+    background: url('../images/bg.png') no-repeat center fixed;    
+    color: whitesmoke;
+    background-size: 100%;
+}
+*/
+
+
+h1 {
+    text-align: center;
+    transform: scale(1.75);
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.logo {
+    width: 120px; 
+    height: 120px;
+    position: absolute;
+    top: 15px;
+    left: 35px;
+}
+
+.topnav {
+    text-align: center;
+    margin-left: auto;
+  margin-right: auto;
+  }
+.topnav a {
+    
+    padding-left : 50px;
+    padding-right: 50px;
+    font-size: 1.25em;
+    margin-left: auto;
+  margin-right: auto;
+}
+
+#title {
+    color:#0A3978;
+    font-family: "Rampart One", display;
+}
+
+.content {
+    color:#0A3978;
+}
+
+.content a {
+    color: #0D4FA6;
+}
+
+#games img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#contact a {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 1.17em;
+  padding-bottom: 10px;
+}
+
+#about img {
+    
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#about a {
+    text-align: center;
+}
+
+#about h3 {
+    padding-left: 250px;
+    padding-right: 250px;
+}
